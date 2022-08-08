@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  pokeCaseV2
+
+  Created by Ahmet Mert ÖZ on 5.08.2022.
+  
+*/
+
+"mainTitle"="Pokemon API Case";
+"searchBarText"="Search Pokemon";
+"stats"="Stats";
+"healthPointStat"="Health Point";
+"attackStat"="Attack";
+"defenseStat"="Defense";
+"spAttackStat"="Sp-Attack";
+"spDefenseStat"="Sp-Defense";

@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  pokeCaseV2
+
+  Created by Ahmet Mert ÖZ on 5.08.2022.
+  
+*/
+
+"mainTitle"="Pokemon API Ödevi";
+"searchBarText"="Pokemon Ara";
+"stats"="Nitelikler";
+"healthPointStat"="Sağlık Durumu";
+"attackStat"="Saldırı";
+"defenseStat"="Savunma";
+"spAttackStat"="Özel Saldırı";
+"spDefenseStat"="Özel Savunma";
